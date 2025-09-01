@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+}
+#HelloText{
+    color: gray;
+    width: 100px;
+}
+#PasswordLink{
+    color: white;
+    background-color: rgb(90, 91, 90);
+    border: 2px;
+    border-radius: 12px;
+    padding: 5px;
+    width: 200px;
+    height: 50px;
+}
+#COCLink{
+    color: white;
+    background-color: rgb(90, 91, 90);
+    border: 2px;
+    border-radius: 12px;
+    padding: 5px;
+    width: 200px;
+    height: 50px;
+}
