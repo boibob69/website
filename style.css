@@ -5,7 +5,7 @@ body {
     color: gray;
     width: 100px;
 }
-#PasswordLink{
+#BibleLink{
     color: white;
     background-color: rgb(90, 91, 90);
     border: 2px;
@@ -15,6 +15,33 @@ body {
     height: 50px;
 }
 #COCLink{
+    color: white;
+    background-color: rgb(90, 91, 90);
+    border: 2px;
+    border-radius: 12px;
+    padding: 5px;
+    width: 200px;
+    height: 50px;
+}
+#Fav-Bible{
+    color: white;
+    background-color: rgb(90, 91, 90);
+    border: 2px;
+    border-radius: 12px;
+    padding: 5px;
+    width: 200px;
+    height: 50px;
+}
+#ClickMe{
+    color: white;
+    background-color: rgb(90, 91, 90);
+    border: 2px;
+    border-radius: 12px;
+    padding: 5px;
+    width: 200px;
+    height: 50px;
+}
+#ClickMee{
     color: white;
     background-color: rgb(90, 91, 90);
     border: 2px;
